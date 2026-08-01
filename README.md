@@ -10,6 +10,7 @@ AIプロダクトの開発・運営をしています。個人開発で90本以�
 | [AI Craft Campus](https://www.aicraftcampus.jp/) | AI開発を学ぶオンライン学習サイト |
 | [相続バトン](https://souzoku-baton.jp/) | 相続税の簡易シミュレーターと相続コラム |
 | [星詠み AI占い](https://hoshiyomi-ai.jp/) | AI鑑定つきの占いサイト |
+| [AI美容カルテ](https://ai-beauty-karte.jp/) | 肌悩みからAIが美容ケアを提案するサービス |
 | [koei-ai](https://ai-race.jp/) | 公営競技の過去データ分析・AIモデル検証 |
 | [NFTラボ](https://nft-labo.tokyo/) | NFT・暗号資産の基礎情報メディア |
 
